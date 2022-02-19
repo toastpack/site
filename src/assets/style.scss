@@ -10,7 +10,7 @@
 }
 
 body {
-  @apply font-ubuntu text-lg text-black;
+  @apply font-ubuntu text-lg text-black bg-primary;
 }
 
 nav {
@@ -70,5 +70,5 @@ smallcontainer {
 }
 
 main {
-  @apply prose lg:prose-xl max-w-none py-4 px-20;
+  @apply prose lg:prose-xl max-w-none py-4 px-20 bg-white dark:bg-black text-dark dark:text-white;
 }
