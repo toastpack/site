@@ -55,20 +55,6 @@ container {
   }
 }
 
-
-smallcontainer {
-  @apply h-[30vh] grid grid-cols-1 lg:grid-cols-3 bg-primary;
-  left {
-    @apply lg:flex lg:text-right flex-row-reverse text-center items-center pr-3;
-  }
-  right {
-    @apply flex lg:col-span-2;
-    img {
-      @apply w-[20vh] lg:w-[30vh] h-[20vh] lg:h-[30vh] overflow-hidden;
-    }
-  }
-}
-
 main {
   @apply prose lg:prose-xl max-w-none py-4 px-20 bg-white text-black;
 }

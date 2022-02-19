@@ -1,5 +1,5 @@
 <template>
-  <smallcontainer>
+  <container>
     <left>
       <div>
         <h1>about toastpack</h1>
@@ -9,7 +9,7 @@
     <right>
       <img src="/logo.svg" />
     </right>
-  </smallcontainer>
+  </container>
   <main>
     <h1 id="about-toastpack">about toastpack</h1>
     <p>Toastpack is a modern package manager for Node.js.</p>
