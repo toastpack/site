@@ -56,5 +56,5 @@ container {
 }
 
 main {
-  @apply prose lg:prose-xl max-w-none py-4 px-20 bg-white text-black;
+  @apply prose lg:prose-lg dark:prose-invert mx-auto max-w-none py-4 px-20 bg-white dark:bg-black text-black dark:text-white;
 }
