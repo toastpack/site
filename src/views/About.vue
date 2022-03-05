@@ -28,7 +28,7 @@
     </p>
     <p>
       <img
-        src="https://cdn.discordapp.com/attachments/906864419877830666/940059440642666496/unknown.png"
+        src="https://media.discordapp.net/attachments/906864419877830666/949754476854669463/unknown.png?width=475&height=68"
         alt="Join the Cloudflare Workers Discord server at [https://discord.gg/cloudflaredev](https://discord.gg/cloudflaredev)"
       />
     </p>
